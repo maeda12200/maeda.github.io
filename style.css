@@ -59,7 +59,7 @@ header{
 .main{
     width: 100%;
     height: 500px;
-    background: url(../main.jpg) no-repeat;
+    background: url(main.jpg) no-repeat;
     background-size: cover;
     top: 49.64px;
     text-align: center;
@@ -125,7 +125,7 @@ code{
 .introdaction{
     width: 100%;
     height: 500px;
-    background: url(/introbg.jpg) no-repeat;
+    background: url(introbg.jpg) no-repeat;
     background-size: cover;
     background-position: bottom;
     text-align: center;
